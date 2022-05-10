@@ -1,10 +1,7 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?rl005v');
-  src:  url('fonts/icomoon.eot?rl005v#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?rl005v') format('truetype'),
-    url('fonts/icomoon.woff?rl005v') format('woff'),
-    url('fonts/icomoon.svg?rl005v#icomoon') format('svg');
+  src: 
+  url('fonts/icomoon.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -97,3 +94,4 @@
 .icon-css3:before {
   content: "\eae6";
 }
+
